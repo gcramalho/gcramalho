@@ -7,7 +7,7 @@
 
 # ➕ Sobre mim:
 🌟 Aspirante a desenvolvedora, compartilhando minha jornada e aprendizados nos mares da tecnologia.<br>
-🧙‍♀️ Atualmente me aventurando em dev. web, com enfoque em back-end, e análise de dados.<br>
+🧙‍♀️ Atualmente me aventurando em desenvolvimento web e análise de dados.<br>
 📜 Cursando Superior em Desenvolvimento Back-End na Universidade Norte do Paraná / Anhanguera.
 
 <div align="center">
