@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gcramalho&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gcramalho&theme=nightfox&hide_current_streak=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gcramalho&theme=nordfox&hide_current_streak=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gcramalho&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
