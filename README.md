@@ -12,6 +12,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/9f/16/d9/9f16d926f95e7ccc80b3771c50edaec3.gif" width="fit-content"/>
+  <img src="https://imgur.com/a/jRZii67" width="fit-content"/>
 </div>
 
 
@@ -22,8 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gcramalho&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gcramalho&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-![AWS Certification Badge](https://imgur.com/a/jRZii67)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
